@@ -1,0 +1,13 @@
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\bin\Debug\netcoreapp3.1\Invintory Busniss Logic.deps.json
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\bin\Debug\netcoreapp3.1\Invintory Busniss Logic.dll
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\bin\Debug\netcoreapp3.1\Invintory Busniss Logic.pdb
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\bin\Debug\netcoreapp3.1\InventoryDataAccess.dll
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\bin\Debug\netcoreapp3.1\InventoryDataAccess.pdb
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.AssemblyInfo.cs
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.csproj.CopyComplete
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.dll
+C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.pdb

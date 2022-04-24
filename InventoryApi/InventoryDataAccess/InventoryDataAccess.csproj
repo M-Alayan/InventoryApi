@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220406214936_init.cs" />
+    <Compile Remove="Migrations\20220406214936_init.Designer.cs" />
+    <Compile Remove="Migrations\20220407132928_v1.cs" />
+    <Compile Remove="Migrations\20220407132928_v1.Designer.cs" />
+    <Compile Remove="Migrations\20220411224544_v5.cs" />
+    <Compile Remove="Migrations\20220411224544_v5.Designer.cs" />
+    <Compile Remove="Migrations\20220412185129_v6.cs" />
+    <Compile Remove="Migrations\20220412185129_v6.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.6" />
+    <PackageReference Include="microsoft.Aspnetcore.Identity.entityframeworkcore" Version="3.1.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.0.0" />
+    <PackageReference Include="Microsoft.entityframeworkcore" Version="3.1.6" />
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="3.1.6" />
+    <PackageReference Include="microsoft.entityframeworkcore.tools" Version="3.1.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
