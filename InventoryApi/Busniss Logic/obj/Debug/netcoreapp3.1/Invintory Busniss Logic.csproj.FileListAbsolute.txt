@@ -11,3 +11,15 @@ C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory 
 C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.csproj.CopyComplete
 C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.dll
 C:\inetpub\wwwroot\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.pdb
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\bin\Debug\netcoreapp3.1\Invintory Busniss Logic.deps.json
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\bin\Debug\netcoreapp3.1\Invintory Busniss Logic.dll
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\bin\Debug\netcoreapp3.1\Invintory Busniss Logic.pdb
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\bin\Debug\netcoreapp3.1\InventoryDataAccess.dll
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\bin\Debug\netcoreapp3.1\InventoryDataAccess.pdb
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.csprojAssemblyReference.cache
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.AssemblyInfoInputs.cache
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.AssemblyInfo.cs
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.csproj.CoreCompileInputs.cache
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.csproj.CopyComplete
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.dll
+C:\woork_space\Inventory\M-Alayan\InventoryApi\InventoryApi\Busniss Logic\obj\Debug\netcoreapp3.1\Invintory Busniss Logic.pdb
